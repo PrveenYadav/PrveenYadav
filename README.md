@@ -23,8 +23,6 @@ Line: 1 percent better everyday - Never stop learning
 - Tools: React, Express, Node, Git, GitHub, VS Code
 - Data Structures and Algorithms
 
-<br>
-## 🛠️ Tool and Technologies
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white)
