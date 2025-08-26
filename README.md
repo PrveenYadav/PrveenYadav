@@ -4,7 +4,8 @@
 
 [![GitHub](https://img.shields.io/badge/-GitHub-2F2F2F?style=flat&logo=github&logoColor=white&link=[https://github.com/PrveenYadav](https://github.com/PrveenYadav))](https://github.com/PrveenYadav)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prveen-yadav/)](https://www.linkedin.com/in/prveen-yadav/) 
-![LeetCode](https://leetcode.com/u/prveen_yadav/)
+![LeetCode](https://leetcode-badge.vercel.app/api?username=prveen_yadav)
+
 
 Welcome to my page!  
 I am a passionate learner currently i am building projects.
@@ -15,7 +16,7 @@ Line: 1 percent better everyday - Never stop learning
 <b>🎓 Education Zone</b>
 - *[B.C.A - Bachelor of Computer Application with Manipal University Jaipur]([https://jaipur.manipal.edu/](https://jaipur.manipal.edu/))*
 
-![GitHub followers](https://img.shields.io/github/followers/PrveenYadav?label=Followers&style=social)
+![GitHub followers](https://img.shields.io/github/followers/PrveenYadav?label=Followers&style=social) <br>
 ![GitHub stars](https://img.shields.io/github/stars/PrveenYadav?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 ## 🛠️ Skillset
@@ -45,9 +46,11 @@ Line: 1 percent better everyday - Never stop learning
 <br>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=PrveenYadav&theme=dark)
+
+<br>
+
 ![Praveen's Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrveenYadav&theme=react-dark)
 
 <br>
 
-[![Star History Chart](https://api.star-history.com/svg?repos=PrveenYadav/Full-stack-Journey&type=Date)](https://star-history.com/#PrveenYadav/Full-stack-Journey&Date)
-[![Star History Chart](https://api.star-history.com/svg?repos=PrveenYadav/Full-stack-Journey&type=Date)](https://star-history.com/#PrveenYadav/Full-stack-Journey&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=PrveenYadav/Full-stack-Journey&type=Date)](https://www.star-history.com/#PrveenYadav/Full-stack-Journey&Date)
