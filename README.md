@@ -4,7 +4,8 @@
 
 [![GitHub](https://img.shields.io/badge/-GitHub-2F2F2F?style=flat&logo=github&logoColor=white&link=[https://github.com/PrveenYadav](https://github.com/PrveenYadav))](https://github.com/PrveenYadav)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prveen-yadav/)](https://www.linkedin.com/in/prveen-yadav/) 
-
+![GitHub followers](https://img.shields.io/github/followers/PrveenYadav?label=Followers&style=social)
+![GitHub stars](https://img.shields.io/github/stars/PrveenYadav?affiliations=OWNER%2CCOLLABORATOR&style=social)
 <br>
 
 Welcome to my page!  
@@ -16,14 +17,15 @@ Line: 1 percent better everyday - Never stop learning
 <b>🎓 Education Zone</b>
 - *[B.C.A - Bachelor of Computer Application with Manipal University Jaipur]([https://jaipur.manipal.edu/](https://jaipur.manipal.edu/))*
 
-![GitHub followers](https://img.shields.io/github/followers/PrveenYadav?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/PrveenYadav?affiliations=OWNER%2CCOLLABORATOR&style=social)
-
+<br>
 ## 🛠️ Skillset
 - Languages: C++, Python, JavaScript, Java
 - Tools: React, Express, Node, Git, GitHub, VS Code
 - Data Structures and Algorithms
-  
+
+<br>
+## 🛠️ Tool and Technologies
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
